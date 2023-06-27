@@ -47,7 +47,6 @@ import { getAllHeroes } from "@/prisma/hero";
 // };
 
 
-
 // export const GET = async (req) => {
 //   const { heroId } = req.query.heroId;
 //   try {
